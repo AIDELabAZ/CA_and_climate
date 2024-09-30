@@ -7,4 +7,4 @@ The files are as follows:
 - `Michler_et_al_JEEM_data.dta` cleaned data used in the analysis.
 
 ## References
-Michler, J.D., Baylis, K., Arends-Kuenning, M., and Mazvimavi, K. (2019). "Conservation Agriculture and Climate Resilience." Journal of Environmental Economics and Management 93: 148-69.
+Michler, J.D., Baylis, K., Arends-Kuenning, M., and Mazvimavi, K. (2019). "Conservation Agriculture and Climate Resilience." *Journal of Environmental Economics and Management 93*: 148-69.
